@@ -1,0 +1,1 @@
+npx sequelize-auto -h [db_host] -d [dbname] -u [username] -x [password] -p [port]  --dialect mysql -o ./src/model -t [tablename] -l es6

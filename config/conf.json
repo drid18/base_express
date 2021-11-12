@@ -1,0 +1,3 @@
+{
+    "dbconf":"mysql://[yourdb]:[yourdb-password]@[yourdb-host]:[yourdb-port]/[yourdb-database]"
+}
